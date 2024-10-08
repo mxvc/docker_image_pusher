@@ -1,1 +1,1 @@
-mxvc/docker-admin
+mysql:5.7.35
