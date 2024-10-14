@@ -1,1 +1,2 @@
-mxvc/zeph
+node:18.12
+maven:3-openjdk-8
