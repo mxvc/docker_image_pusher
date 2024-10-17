@@ -1,1 +1,1 @@
-gmaslowski/jdk:8
+mysql:5.7.99
