@@ -1,1 +1,1 @@
-mxvc/fee-tool
+mxvc/fee-tool:latest
