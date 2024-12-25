@@ -1,2 +1,1 @@
-mxvc/fee-tool:latest
-mxvc/fee-tool:0.1.1
+node:18
