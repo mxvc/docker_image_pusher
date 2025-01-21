@@ -1,2 +1,2 @@
-docker-admin:latest
+mxvc/docker-admin:latest
 mysql:5.7.99
