@@ -1,1 +1,1 @@
-amazoncorretto:17
+oraclelinux:6
