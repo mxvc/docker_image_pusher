@@ -1,1 +1,1 @@
-centos:6
+oraclelinux:6.10
