@@ -1,1 +1,1 @@
-linuxserver/wireguard
+linuxserver/wireguard:legacy
