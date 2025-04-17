@@ -1,3 +1,1 @@
-masipcat/wireguard-go
-cmulk/wireguard-docker
-
+cmulk/wireguard-go
