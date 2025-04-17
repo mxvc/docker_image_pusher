@@ -1,1 +1,1 @@
-ubuntu:jammy
+debian:bookworm-slim
