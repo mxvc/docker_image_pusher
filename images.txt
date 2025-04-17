@@ -1,1 +1,1 @@
-cmulk/wireguard-go
+cmulk/wireguard-docker:alpine
