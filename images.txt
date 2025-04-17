@@ -1,2 +1,2 @@
 linuxserver/wireguard:legacy
-cmulk/wireguard-go
+masipcat/wireguard-go
