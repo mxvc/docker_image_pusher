@@ -1,1 +1,1 @@
-softethervpn/vpnserver:stable
+node:16-alpine
