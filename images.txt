@@ -1,1 +1,1 @@
-openjdk:17.0.2-oracle
+maven:3-amazoncorretto-17
