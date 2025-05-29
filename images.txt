@@ -1,1 +1,1 @@
-ghcr.io/home-assistant/home-assistant:stable
+ghcr.io/home-assistant-libs/python-matter-server:stable
